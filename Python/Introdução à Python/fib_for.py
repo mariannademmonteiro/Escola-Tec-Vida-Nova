@@ -1,7 +1,7 @@
+# n + 1 = n + n-1
+
 print("Fibonacci")
 var = int(input("Digite o valor: "))
-
-# n + 1 = n + n-1
 
 a = 0
 b = 1
